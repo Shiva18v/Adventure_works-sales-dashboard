@@ -46,7 +46,7 @@ Feel free to customize the dashboard to suit your specific analytical needs. You
 ![AW2](https://github.com/user-attachments/assets/520205fc-4bf5-49ee-bb20-bfe2db6c5dab)
 3. COSTUMER ANALYSIS
 ![AW3](https://github.com/user-attachments/assets/32a35795-378f-46ed-99b3-03287c501c70)
-4.REGIONAL ANALYSIS
+4. REGIONAL ANALYSIS
 ![AW4](https://github.com/user-attachments/assets/8bda67e0-7ab5-4221-be14-1c3244760908)
 
 
